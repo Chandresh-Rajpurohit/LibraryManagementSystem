@@ -48,5 +48,6 @@ Details of Students.
  
 Details of Books.
 •	SEND MAIL:
- 
+ ![image](https://user-images.githubusercontent.com/65438429/129848782-595a8f2e-8280-4dff-8e53-0e2aaa4bb30a.png)
+
 For sending Mail to the student for returning the book before return date.
