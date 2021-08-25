@@ -35,7 +35,7 @@ This form is used for reteriving password of librarian account.
 •	**HOME FORM**:
  
  
- ![image](https://user-images.githubusercontent.com/65438429/129849149-c11b8a6e-d753-4b72-87eb-38db5c63536b.png)
+ ![image](https://user-images.githubusercontent.com/65438429/130727395-ffdbc0a5-acf6-4833-bbc1-96554e07e28c.png)
 
 Home page of library management system . From here we can add new Students,Books. Delete Students, Books , Issue Book, Return Book, Statistics ,about and logout.
 
@@ -43,63 +43,61 @@ Home page of library management system . From here we can add new Students,Books
 
 •	**NEW STUDENT FORM**:
  
- ![image](https://user-images.githubusercontent.com/65438429/129849171-de5370c4-1900-4b2a-92e0-d7ef2b186520.png)
+![image](https://user-images.githubusercontent.com/65438429/130727416-a24f9baf-2007-448d-ad5c-ce63e78c2382.png)
 
 For Adding New Student In Library management system.
 
 
 •	**NEW BOOK FORM**:
  
- ![image](https://user-images.githubusercontent.com/65438429/129849212-4d4b224e-d0f3-4a2d-9a45-2377054878e4.png)
+![image](https://user-images.githubusercontent.com/65438429/130727432-1cee99c5-e3da-473d-b1c6-2fa0119914c5.png)
 
 For Adding New Books In Library management system.
 
 
 •	**DELETE STUDENT FORM**:
  
- ![image](https://user-images.githubusercontent.com/65438429/129849264-5f07fec4-abef-4523-a517-ba4200414924.png)
+ ![image](https://user-images.githubusercontent.com/65438429/130727455-5aeb8dd4-fc2a-4fe6-8711-d5fa8d39aa49.png)
 
 For Deleting Student  From Library management system
 
 
 •	**DELETE BOOK FORM**:
- 
- ![image](https://user-images.githubusercontent.com/65438429/129849282-e78dd7dc-6390-468c-b579-7806f94157fc.png)
+ ![image](https://user-images.githubusercontent.com/65438429/130727485-15ed6573-ced4-465f-9558-8c1d2a57c316.png)
 
 For Deleting Books  From Library management system
 
 
 •	**ISSUE BOOK FORM**:
  
- ![image](https://user-images.githubusercontent.com/65438429/129849294-cc737e76-8f0c-4af4-9c2c-1a7b7ca05455.png)
+ ![image](https://user-images.githubusercontent.com/65438429/130727522-ad971cba-b87d-45b3-9af7-29f4cb841b7b.png)
 
 For Issusing Book From Library Management System.
 
 
 •	**RETURN BOOK FORM**:
  
- ![image](https://user-images.githubusercontent.com/65438429/129849318-15b97693-be9e-4c32-8732-8c636228245e.png)
+ ![image](https://user-images.githubusercontent.com/65438429/130727537-b080a39d-8017-45fb-9d9a-699cda42f364.png)
 
 For Returning Book In Library .
 
 
 •	**STATISTICS**:
  
- ![image](https://user-images.githubusercontent.com/65438429/129849347-0e618f6c-bef6-49ff-a5d1-3b8b0c851346.png)
-
+![image](https://user-images.githubusercontent.com/65438429/130727555-a953b509-9073-47c5-95c6-0e8e93d0cef7.png)
 Details of students and books which is issused and returned.
 
 
 •	**STUDENT DETAILS FORM**:
  
- ![image](https://user-images.githubusercontent.com/65438429/129849373-1ff2db82-29fa-4164-8b18-394bfd248068.png)
+![image](https://user-images.githubusercontent.com/65438429/130727567-a868d400-16ef-49f0-a4a0-3e53e1f39787.png)
 
 Details of Students.
 
 
 •	**BOOKS DETAILS FORM**:
 
-![image](https://user-images.githubusercontent.com/65438429/129849681-318c659b-70a8-4004-b01f-9832cc06d473.png)
+![image](https://user-images.githubusercontent.com/65438429/130727582-dce70175-cd75-4c9a-9aca-655156cd4271.png)
 
 Details of Books.
 
